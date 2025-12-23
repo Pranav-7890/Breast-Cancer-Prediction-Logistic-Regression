@@ -22,6 +22,10 @@ The dataset contains 569 instances with 30 features (radius, texture, perimeter,
 ## 📈 Results
 - **Training Accuracy:** ~97%
 - **Test Accuracy:** ~93%
+  <br>
+![Screenshot](Model_Evaluation.png)
+![Screenshot](Model_Prediciton.png)
+
 
 ## 💻 How to Use
 1. Clone the repository.
